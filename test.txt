@@ -1,3 +1,4 @@
 初始化
 合并分支
-master分支内容
+master分支内容，branch1分支内容
+
